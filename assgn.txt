@@ -1,0 +1,10 @@
+http://www.cs.princeton.edu/courses/archive/fall16/cos226/lectures.html
+http://coursera.cs.princeton.edu/algs4/assignments/percolation.html
+http://coursera.cs.princeton.edu/algs4/assignments/collinear.html
+http://coursera.cs.princeton.edu/algs4/assignments/queues.html
+http://coursera.cs.princeton.edu/algs4/assignments/8puzzle.html
+http://coursera.cs.princeton.edu/algs4/assignments/kdtree.html
+
+http://www.cs.princeton.edu/courses/archive/fall16/cos226/assignments/wordnet.html
+http://www.cs.princeton.edu/courses/archive/fall16/cos226/assignments/seamCarving.html
+http://www.cs.princeton.edu/courses/archive/fall16/cos226/assignments/burrows.html
